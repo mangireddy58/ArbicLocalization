@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Rushikesh Kulkarni on 06/09/17.
+  Copyright © 2017 simplicity. All rights reserved.
+*/
+
+"first_name" = "First Name";
+"last_name" = "Last Name";
+"middle_name" = "Middle Name";
+"dismiss" = "dismiss";
+"second_view" = "second";

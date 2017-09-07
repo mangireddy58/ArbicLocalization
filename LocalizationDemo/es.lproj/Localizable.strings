@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Rushikesh Kulkarni on 06/09/17.
+  Copyright © 2017 simplicity. All rights reserved.
+*/
+
+"first_name" = "Nombre de pila";
+"last_name" = "Apellido";
